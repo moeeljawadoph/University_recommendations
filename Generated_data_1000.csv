@@ -1,0 +1,1001 @@
+Math Grade,Physics Grade,Biology Grade,Chemistry Grade,English Grade,History Grade,Economy Grade,Geography Grade,is_sucess,Suggestion Based on Top 4 grades,Suggestion Based on Mean
+77,60,82,47,48,97,63,59,1,Anatomy,Economic Policy Analysis
+57,70,86,61,40,45,55,93,1,Emergency management and Disaster,Mathematical Archaeology
+61,43,60,92,58,82,63,44,1,Analytical Chemistry,Mathematical Archaeology
+53,86,93,57,52,47,43,81,1,Medicine,Anatomy
+70,82,92,70,49,77,71,98,1,Physics Education,Metorology
+75,75,55,47,70,42,49,89,1,Tourism and Hospitality,Urban Planing and Regional Development
+98,96,75,87,81,85,66,54,1,Data Reporting,Physical Chemistry
+76,47,47,65,42,77,78,85,1,Transportation and Logistics,Surveying and Geomatics
+40,77,95,56,81,51,58,97,1,Editing,Cultural Heritage Preservation
+81,51,63,76,92,63,84,80,1,Global Financial Markets,Historical Geography
+70,99,44,46,58,45,91,82,1,Economic Policy,Urban Planing and Regional Development
+86,66,48,40,54,78,59,64,1,Signal Processing Engineers,Historical Analysis of Technological Advances
+62,84,53,57,72,48,100,60,1,Experimental Physics,Geographic Information Systems
+82,80,67,89,43,48,94,67,1,Economic Policy,Organic Chemistry
+69,97,79,64,62,52,45,46,1,Experimental Physics,Science Journalism
+73,86,83,98,75,46,58,60,1,Pharmacology,Organic Chemistry
+78,58,60,91,85,48,90,56,1,Economic Policy,Lab Assistant
+88,99,94,59,73,92,62,93,1,BioMechanics,Data Reporting
+41,46,59,66,57,64,50,56,0,"F, a, i, l","F, a, i, l"
+92,95,66,44,70,82,46,73,1,Operation Resarch,Computational Biology
+48,58,72,78,71,52,84,57,1,Macroeconomics,Environmental Jouralism
+63,73,65,92,41,71,52,73,1,Inorganic Chemistry,Chemistry and Scientific Revolution
+91,78,94,88,67,60,77,62,1,Medicinal Chemistry,Chemistry Journalism
+52,55,97,42,71,92,89,44,1,Medical History,Operation Resarch
+76,51,99,68,46,96,79,87,1,Transportation and Logistics,Spatial Dynamics of Chemical Reactions
+79,92,99,62,87,99,45,67,1,History of Physics,GeoPhysics
+72,58,80,90,90,83,84,76,1,Chemistry Journalism,Education
+41,49,100,82,99,81,88,79,1,Biotechnology,Economics of Biomedical Research and Development
+81,42,94,56,100,83,63,73,1,History of Science,Economics of Biomedical Research and Development
+52,65,65,81,62,99,81,90,1,Spatial Dynamics of Chemical Reactions,Global Financial Markets
+84,84,68,80,60,98,78,77,1,Mathematics,Mathematical Modeling
+58,67,68,53,59,85,71,47,1,Journalism and Media,Historical Anthropology
+73,59,48,71,100,67,63,69,1,Publishing,Global Financial Markets
+62,90,66,71,73,97,86,72,1,Historical Instrumentation and Experimental Replication,Science Editing
+93,49,93,53,49,67,40,71,1,Computational Biology,Digital Humanities
+100,71,100,44,63,75,72,70,1,Mathematics,Biostatistics
+97,60,47,60,75,72,59,42,1,Signal Processing Engineers,Epidemiology
+91,43,78,60,73,57,61,97,1,Mathematics,Computational Biology
+43,96,56,75,50,52,51,83,1,Geospatial Techoology,Radiology
+52,57,65,57,67,76,40,40,0,"F, a, i, l","F, a, i, l"
+68,95,69,81,76,65,92,43,1,Energy Economics,Chemistry and Scientific Revolution
+41,67,71,83,89,56,92,93,1,Technical Writing for Chemistry,Environmental Economics
+86,94,49,55,91,48,96,83,1,Communications,Travel Writing and Guidebook Publishing
+93,99,97,57,89,52,81,59,1,Biotechnology,Risk Manager
+76,79,57,77,58,62,98,72,1,Econometrics,Analytical Chemistry
+71,58,96,73,68,59,62,64,1,Microbiology,Archival Studies
+64,68,58,56,94,46,40,86,1,Tourism and Hospitality,Museum Curator
+57,52,67,90,86,99,59,75,1,Evolution of Chemical Education,Geography of Chemical Waste Management
+45,98,82,62,58,89,84,91,1,Historical Preservation and Cultural Heritage,Microeconomics
+83,74,53,61,100,49,49,40,1,Communications,Physiology
+95,50,47,58,67,73,98,56,1,Risk Manager,Environmental Jouralism
+77,42,64,65,100,82,72,46,1,Translation,Digital Marketing
+55,71,68,49,77,97,43,72,1,Government and Public Services,Biophysics
+98,66,73,49,88,89,68,47,1,Mathematics,Economic Policy Analysis
+47,65,53,65,47,64,93,85,1,Environmental Economics,Transportation and Logistics
+48,58,96,45,44,50,60,57,0,"F, a, i, l","F, a, i, l"
+65,42,45,56,87,93,75,87,1,Historical Geography,History of Chemical Discoveries
+53,89,47,47,58,50,97,88,1,International Development,Environmental Jouralism
+59,72,66,76,70,74,93,64,1,Public Finance,Energy Economics
+85,84,99,60,40,56,92,82,1,Emergency management and Disaster,Environmental Chemistry
+69,93,64,43,63,87,42,83,1,GeoPhysics,Data Analysis
+60,55,92,80,45,48,98,89,1,International Economics,Astrophysics
+80,68,83,45,48,99,73,64,1,History of Science,Economics of Biomedical Research and Development
+43,49,73,59,91,44,54,46,0,"F, a, i, l","F, a, i, l"
+81,88,64,78,100,60,62,56,1,Technical Writing,Data Scientist
+100,99,82,86,78,84,61,62,1,Biotechnology,Biomedical Engineering
+63,70,97,42,89,73,84,50,1,International Economics,Data Scientist
+58,100,94,51,81,89,60,66,1,Copywriting,Medical Physics
+96,91,81,70,87,43,59,90,1,Publishing,Technical Writing
+65,79,72,88,100,75,58,43,1,Scientific Writing in Chemistry,Museum Curation and Interpretation
+68,84,59,65,75,40,54,98,1,Plantery Science,Emergency management and Disaster
+70,56,47,99,42,56,70,100,1,Emergency management and Disaster,History of Science
+42,54,64,58,59,42,64,53,0,"F, a, i, l","F, a, i, l"
+54,42,68,66,41,47,47,100,0,"F, a, i, l","F, a, i, l"
+50,45,40,44,67,47,68,77,0,"F, a, i, l","F, a, i, l"
+47,78,47,41,93,67,78,95,1,Cultural Heritage Preservation,Data Scientist
+98,43,99,90,95,64,94,68,1,Signal Processing Engineers,Cultural Heritage Management and Preservation
+82,60,53,91,61,79,64,93,1,Geography of Chemical Waste Management,Economic History Research
+79,75,68,70,91,59,54,45,1,Technical Writing,Biophysics
+76,82,81,56,93,51,43,90,1,Communications,Math Journalism
+92,68,59,40,93,67,44,49,1,Copywriting,Statistical Demography
+76,83,52,89,43,85,56,44,1,Science Journalism,Financial Services
+41,55,69,66,51,96,57,48,1,Historical Preservation and Cultural Heritage,Sustainable Chemistry and Economic Development
+46,64,76,75,75,47,53,81,1,Emergency management and Disaster,Plantery Science
+77,43,80,46,45,75,66,65,1,Urban Planing and Regional Development,Data Scientist
+48,60,66,81,83,84,51,85,1,Tourism and Hospitality,Historical Research and Writing
+68,85,42,68,50,100,81,42,1,History of Physics,Translation
+95,65,46,92,50,42,93,47,1,Microeconomics,Biostatistics
+53,58,86,46,76,79,69,57,1,Biotechnology,Microeconomics
+42,60,98,71,48,58,52,64,1,Anatomy,Tourism and Hospitality
+45,42,44,83,93,53,62,95,1,Chemistry Education and Curriculum Development,Travel Writing and Guidebook Publishing
+87,56,76,57,74,42,85,91,1,Urban Planing and Regional Development,Emergency management and Disaster
+85,55,52,43,96,71,74,94,1,Copywriting,Microeconomics
+60,56,81,86,65,82,92,43,1,Macroeconomics,Energy Economics
+88,71,50,90,86,82,66,54,1,Organic Chemistry,Public Finance
+97,66,98,94,46,52,75,99,1,Computational Chemistry,Mathematical Modeling
+44,82,46,50,71,94,46,72,1,Experimental Physics,Economic Policy
+49,49,54,78,80,94,50,49,1,Archivist,English Language Skills for Economic Forecasting
+60,84,90,75,50,76,51,87,1,GeoPhysics,Lab Assistant
+72,91,59,91,75,76,70,95,1,Emergency management and Disaster,Metorology
+43,73,47,41,88,49,97,85,1,Environmental Jouralism,Climate Science
+85,62,90,63,43,84,97,98,1,Cultural Heritage Management and Preservation,Quantum Chemistry
+75,59,62,51,62,41,42,41,0,"F, a, i, l","F, a, i, l"
+63,95,63,61,49,57,65,99,1,Astrophysics,Materials Science
+61,85,80,87,89,53,83,94,1,Plantery Science,Economic Policy
+77,82,67,78,65,78,75,62,1,Astrophysics,Energy Economics
+72,73,89,54,50,51,84,87,1,Environmental Economics,Data Scientist
+42,63,98,99,43,89,81,86,1,Medicine,Spatial Dynamics of Chemical Reactions
+46,46,43,40,91,95,47,67,0,"F, a, i, l","F, a, i, l"
+72,89,67,85,47,85,83,59,1,Historical Instrumentation and Experimental Replication,Environmental Economics
+70,76,80,76,95,91,97,89,1,Academic Publishing,Econometrics
+58,85,61,82,75,58,72,56,1,Materials Science,English Language Skills for Economic Forecasting
+77,44,84,94,79,67,60,49,1,Pharmacology,Bioinformatics
+45,89,99,78,92,90,80,96,1,GeoPhysics,Science Journalism
+48,94,75,73,86,95,41,54,1,Historical Preservation and Cultural Heritage,Ecology
+89,48,80,92,72,70,86,40,1,Sustainable Chemistry and Economic Development,English Language Skills for Economic Forecasting
+58,64,62,73,41,43,40,71,0,"F, a, i, l","F, a, i, l"
+51,73,55,96,58,85,41,81,1,History of Chemical Discoveries,Molecular Biology
+80,77,99,63,56,61,65,65,1,Ecology,Epidemiology
+95,67,40,82,100,53,80,81,1,Chemical Engineering,Emergency management and Disaster
+91,72,73,80,48,54,81,63,1,Financial Services,Physiology
+62,68,52,92,49,77,88,41,1,Inorganic Chemistry,Chemistry Journalism
+83,59,69,59,90,66,71,99,1,Surveying and Geomatics,Mathematical Archaeology
+54,84,53,84,99,81,58,75,1,Chemistry Education and Curriculum Development,Historical Fiction Writing
+86,53,85,88,54,40,97,70,1,Financial Services,Experimental Physics
+56,67,95,52,79,56,61,97,1,Tourism and Hospitality,International Economics
+62,56,66,60,58,85,78,55,1,Government and Public Services,Content Creation
+73,49,44,70,90,65,86,97,1,Cultural Heritage Preservation,Quantitative Analyst
+85,41,50,52,67,96,41,45,0,"F, a, i, l","F, a, i, l"
+57,86,91,95,83,93,78,87,1,Geographical Perspectives on Ecosystem Services,Chemistry and Scientific Revolution
+71,75,68,94,69,40,65,43,1,Organic Chemistry,Analytical Chemistry
+98,72,95,68,82,62,95,81,1,International Development,Risk Manager
+75,56,48,43,41,70,85,47,0,"F, a, i, l","F, a, i, l"
+61,98,92,85,57,78,97,47,1,Analytical Chemistry,Quantitative Analyst
+40,56,44,65,82,99,57,86,1,Copywriting,Economic Policy
+47,64,62,82,50,46,54,69,0,"F, a, i, l","F, a, i, l"
+76,60,61,70,87,91,72,67,1,Content Creation,Journalism and Media
+58,46,61,75,87,97,65,57,1,Archivist,Environmental Economics
+63,76,66,93,74,76,96,82,1,Spatial Dynamics of Chemical Reactions,Environmental Chemistry
+83,73,90,41,58,70,80,88,1,Cartography,Tourism and Hospitality
+97,94,59,91,100,87,72,87,1,Evolution of Chemical Education,Data Reporting
+78,92,94,87,58,77,57,52,1,Inorganic Chemistry,Data Reporting
+47,92,58,56,89,85,94,81,1,Econometrics,Business and Economic Journalism
+41,63,94,55,86,90,81,43,1,Sustainable Economics in Biology Conservation,Biochemistry
+82,100,77,74,82,55,67,83,1,Technical Writing,Energy Economics
+98,48,84,74,57,58,75,70,1,Data Scientist,Data Analysis
+45,92,75,97,42,45,70,83,1,Lab Assistant,Geographical Perspectives on Ecosystem Services
+97,63,80,55,90,60,40,87,1,Academic Research,Chemical Engineering
+95,98,47,93,48,85,88,91,1,Chemistry and Scientific Revolution,Data Analysis
+77,45,63,48,58,51,79,70,1,Environmental Economics,Translation
+94,60,72,78,53,63,99,60,1,Financial Services,Energy Economics
+60,57,97,74,63,63,95,63,1,Sustainable Economics in Biology Conservation,Bioarchaeology
+94,70,83,58,73,49,85,91,1,Financial Services,Experimental Physics
+63,93,98,81,63,61,91,57,1,Materials Science,Quantitative Analyst
+63,47,99,89,91,88,92,69,1,Biotechnology and Economic Development,Conservation of Biodiversity Hotspots
+72,93,61,99,74,73,75,52,1,Lab Assistant,Philosophy of Physics
+78,58,85,49,74,83,52,95,1,Historical Geography,Technical Writing
+70,84,74,71,68,93,92,43,1,Energy Economics,Atmospheric Chemistry
+77,44,82,61,60,84,73,56,1,Museum Curator,Bioarchaeology
+99,96,61,81,48,95,81,48,1,Government and Public Services,Biostatistics
+60,63,69,40,53,61,44,87,0,"F, a, i, l","F, a, i, l"
+48,77,48,84,44,70,82,72,1,Economic Policy,Economic Policies in the Chemical Sector
+96,84,94,43,87,69,77,47,1,Math Journalism,Publishing
+55,45,70,96,92,56,61,66,1,Technical Writing for Chemistry,Economic Policy
+67,68,76,75,77,84,60,97,1,Historical Geography,Education
+72,75,62,86,41,50,80,40,1,Organic Chemistry,Materials Science
+89,84,88,52,52,58,94,100,1,Climate Science,Cartography
+74,43,46,55,61,67,58,44,0,"F, a, i, l","F, a, i, l"
+60,84,52,86,43,79,66,81,1,Geography of Chemical Waste Management,Data Analysis
+78,47,74,81,63,77,40,75,1,Education,Spatial Dynamics of Chemical Reactions
+65,75,93,65,54,96,90,96,1,Conservation of Biodiversity Hotspots,Biotechnology and Economic Development
+81,73,99,52,70,84,77,85,1,Medicine,Medicine
+78,44,89,73,73,67,59,92,1,Biotechnology,Biotechnology
+64,48,47,60,45,74,47,86,0,"F, a, i, l","F, a, i, l"
+58,89,72,66,47,50,76,61,1,Experimental Physics,Education
+57,96,96,43,50,56,46,95,1,Transportation and Logistics,GeoPhysics
+47,46,70,49,92,98,52,61,1,Publishing,Historical Preservation and Cultural Heritage
+77,47,59,71,65,86,91,81,1,Business and Economic Journalism,English Language Skills for Economic Forecasting
+88,51,100,58,95,53,63,87,1,Content Creation,Data Scientist
+55,62,84,60,63,46,69,47,1,Medicine,Microbiology
+82,45,90,56,62,61,90,83,1,Urban Planing and Regional Development,Economic History
+69,93,98,41,93,46,64,50,1,Biophysics,Radiology
+55,90,65,40,70,53,56,49,0,"F, a, i, l","F, a, i, l"
+47,66,86,68,52,78,96,75,1,Microeconomics,Astrophysics
+88,95,65,59,97,63,42,94,1,Theortical Physics,Creative Writing
+55,56,85,67,63,88,61,86,1,Emergency management and Disaster,Medicine
+81,86,72,90,71,64,57,61,1,Mathematical Physics,Historical Education and Outreach
+62,40,63,87,90,46,73,70,1,Communications,Biochemistry
+84,62,70,73,77,54,67,49,1,Data Analysis,Technical Writing in Physics
+80,63,53,92,64,82,59,77,1,Chemistry and Scientific Revolution,Communications
+86,64,70,73,63,81,53,59,1,Economic History Research,Geography of Chemical Waste Management
+80,76,74,61,71,40,78,98,1,Tourism and Hospitality,Global Financial Markets
+48,70,67,96,53,97,90,84,1,History of Chemical Discoveries,Philosophy of Physics
+58,74,100,68,74,75,42,84,1,Tourism and Hospitality,Computer Science
+86,84,88,40,83,46,59,59,1,Biostatistics,Urban Planing and Regional Development
+79,62,75,93,69,94,90,43,1,Chemistry and Resource Economics,Financial Sector Regulatoins
+58,46,41,85,90,82,45,79,1,Technical Writing for Chemistry,Historical Instrumentation and Experimental Replication
+99,78,94,58,76,42,63,68,1,Ecology,Data Scientist
+67,66,56,41,61,67,65,88,1,Tourism and Hospitality,Mathematical Modeling
+66,96,88,64,70,89,83,68,1,Historical Preservation and Cultural Heritage,Bioinformatics
+55,71,42,49,40,53,48,60,0,"F, a, i, l","F, a, i, l"
+89,66,72,100,65,60,52,45,1,Lab Assistant,Physiology
+74,92,62,96,77,100,83,93,1,Sustainable Chemistry and Economic Development,Mathematical Physics
+41,92,83,80,81,55,67,87,1,GeoPhysics,Science Communication
+82,86,63,75,83,97,88,50,1,econophysics,English Language Skills for Economic Forecasting
+88,100,79,90,81,73,44,88,1,Physics Education,Cultural Heritage Management and Preservation
+48,49,80,55,92,58,92,42,1,Communications,Business and Economic Journalism
+80,99,57,75,87,52,53,79,1,Translation,Science Communication
+60,90,50,57,64,60,76,53,1,Astrophysics,Econometrics
+72,82,82,47,56,92,51,88,1,Historical Anthropology,Science Editing
+80,69,42,47,74,94,98,50,1,Museum Curator,Business and Economic Journalism
+85,78,42,64,80,57,86,70,1,Mathematics,Science Education and Outreach
+42,93,59,94,49,83,85,73,1,Science Journalism,Spatial Dynamics of Chemical Reactions
+59,48,81,90,96,65,53,87,1,Geography of Chemical Waste Management,Transportation and Logistics
+61,69,73,64,69,69,50,49,1,Historical Fiction Writing,Historical Analysis of Technological Advances
+74,56,57,46,80,61,77,40,1,English Language Skills for Economic Forecasting,Math Journalism
+82,67,75,59,42,71,81,79,1,Macroeconomics,Molecular Biology
+86,87,83,68,49,100,54,65,1,Medical Physics,Plantery Science
+95,100,55,49,61,51,47,49,1,Experimental Physics,Chemical Engineering
+41,63,88,43,80,63,40,95,1,Emergency management and Disaster,Emergency management and Disaster
+62,62,65,60,81,79,62,72,1,Publishing,Geographic Information Systems
+94,55,82,87,60,90,77,80,1,Analytical Chemistry,Cultural Heritage Management and Preservation
+82,97,87,43,70,73,74,99,1,Biotechnology,Historical Fiction Writing
+51,47,96,83,84,40,74,90,1,Education,Macroeconomics
+75,60,90,90,87,77,50,90,1,Molecular Biology,Bioinformatics
+87,81,50,81,45,72,50,97,1,Theortical Physics,Archivist
+99,64,98,49,93,75,63,79,1,Data Analysis,Sustainable Economics in Biology Conservation
+93,62,48,99,84,54,89,54,1,Public Finance,English Language Skills for Economic Forecasting
+98,85,85,81,67,87,44,41,1,Pharmacology,Mathematical Biology
+94,66,81,67,55,98,97,95,1,Biotechnology,Computational Biology
+84,91,68,55,53,77,58,80,1,Science Journalism,Urban Planing and Regional Development
+54,81,79,64,82,87,50,77,1,Science Journalism,Education
+71,71,59,65,58,68,81,90,1,Econometrics,Spatial Dynamics of Chemical Reactions
+73,59,94,77,70,55,67,85,1,Anatomy,Mathematical Biology
+67,42,58,48,94,98,82,83,1,International Development,Economic Policy Analysis
+75,74,53,49,78,98,63,73,1,Historical Preservation and Cultural Heritage,Museum Curator
+53,49,98,94,72,48,98,54,1,Pharmacology,Econometrics
+83,59,86,68,69,86,59,66,1,Bioinformatics,Communications
+87,46,98,49,82,90,86,61,1,Statistical Demography,Data Reporting
+98,44,98,95,99,78,89,76,1,Microbiology,Emergency management and Disaster
+85,40,92,43,66,57,90,97,1,Biotechnology and Economic Development,Microbiology
+46,45,80,52,52,84,44,84,1,Tourism and Hospitality,Technical Writing for Chemistry
+93,47,57,73,78,97,65,79,1,Journalism and Media,Sustainable Chemistry and Economic Development
+58,80,57,61,52,64,97,47,1,International Economics,Molecular Biology
+98,52,42,85,60,91,47,48,1,History of Chemical Discoveries,Physics Education
+88,89,100,96,43,72,95,76,1,Economics,Physiology
+84,59,65,95,80,91,83,84,1,Emergency management and Disaster,Archaeology
+92,70,56,62,54,78,72,56,1,Data Analysis,Signal Processing Engineers
+70,40,92,48,94,48,78,90,1,Creative Writing,International Development
+80,75,66,86,49,85,89,92,1,Cultural Heritage Management and Preservation,Atmospheric Chemistry
+97,89,58,86,74,98,50,57,1,Quantum Mechanics,Organic Chemistry
+58,62,46,86,87,71,54,73,1,Chemistry Journalism,Geochemistry
+94,85,89,50,99,89,54,62,1,Museum Curator,Science Communication
+44,74,74,52,59,71,81,67,1,Microeconomics,Physics Education
+77,59,83,65,75,82,57,68,1,Museum Curator,Chemistry Education and Curriculum Development
+49,70,80,51,78,53,43,88,1,Tourism and Hospitality,Data Analysis
+63,57,87,71,79,85,65,91,1,Archivist,Economics
+64,46,64,82,84,65,55,54,1,Analytical Chemistry,Spatial Dynamics of Chemical Reactions
+68,73,42,67,41,50,98,69,1,International Economics,Experimental Physics
+53,84,40,47,94,91,76,95,1,Archival Studies,Urban Planing and Regional Development
+64,76,59,99,92,70,79,85,1,Organic Chemistry,Geography of Chemical Waste Management
+83,59,90,70,87,97,67,86,1,Cultural Heritage Management and Preservation,History of Science
+65,70,79,54,60,81,89,47,1,Economic Policy Analysis,History of Science
+99,54,85,59,51,91,86,65,1,Museum Curator,Computational Chemistry
+53,95,79,75,73,96,44,54,1,Experimental Physics,Chemistry Journalism
+97,99,88,96,66,69,85,43,1,Organic Chemistry,Archivist
+43,57,63,72,47,42,42,49,0,"F, a, i, l","F, a, i, l"
+43,70,53,77,55,65,40,78,1,Historical Preservation and Cultural Heritage,Environmental Chemistry
+78,95,54,47,65,44,99,96,1,Energy Economics,Experimental Physics
+66,73,99,94,69,58,84,84,1,Economics of Chemical Manufacturing,Chemistry Education and Curriculum Development
+48,68,69,81,85,41,86,56,1,Education,Astrophysics
+99,61,64,85,72,54,80,46,1,Chemical Education,Data Scientist
+41,77,69,64,74,85,41,87,1,Government and Public Services,Journalism
+78,70,98,77,71,60,90,43,1,Macroeconomics,Evolution of Chemical Education
+83,61,92,53,79,46,40,93,1,Landscape Ecology and Biotic Interactions,Public Relations
+86,78,45,46,100,100,94,93,1,Travel Writing and Guidebook Publishing,English Language Skills for Economic Forecasting
+95,55,73,48,89,65,80,54,1,Technical Writing,Landscape Ecology and Biotic Interactions
+40,59,64,64,68,47,72,88,1,Tourism and Hospitality,Public Finance
+53,41,92,46,90,49,65,40,0,"F, a, i, l","F, a, i, l"
+79,58,63,49,69,80,75,82,1,Emergency management and Disaster,Science Editing
+90,65,43,81,82,89,68,73,1,Education,Scientific Writing in Chemistry
+100,48,79,95,59,73,80,49,1,Mathematics,Editing
+71,40,95,47,69,85,65,44,1,Historical Anthropology,Chemical Engineering
+100,40,89,49,75,43,99,40,1,Financial Services,Public Finance
+88,57,50,69,100,53,50,60,1,Data Reporting,Economic Policies in the Chemical Sector
+60,92,82,81,98,67,91,55,1,Biotechnology and Economic Development,Business and Economic Journalism
+96,61,68,41,53,86,72,87,1,Operation Resarch,Statistical Demography
+77,95,78,76,88,96,74,58,1,Research in Science and Technology Communication,Economic Policy
+83,81,56,71,67,83,87,59,1,Operation Resarch,Physics Content Creation
+90,53,73,71,85,91,51,79,1,Quantitative Historical Analysis,Environmental Jouralism
+78,45,78,67,81,48,94,41,1,Technical Writing,Cultural Heritage Preservation
+85,69,74,83,92,67,62,96,1,Content Creation,Content Management
+77,76,43,65,97,86,98,81,1,Environmental Jouralism,Risk Manager
+91,81,75,96,79,93,90,91,1,Mathematical Modeling,Emergency management and Disaster
+59,76,97,69,90,75,91,93,1,Environmental Economics,Science Communication and Writing
+97,60,82,93,94,97,89,71,1,Medicinal Chemistry,Digital Marketing
+99,97,48,84,55,55,52,55,1,Mathematical Modeling,econophysics
+72,83,46,93,99,100,40,79,1,Education,Science Writing
+71,52,83,59,43,70,94,76,1,Macroeconomics,Conservation of Biodiversity Hotspots
+100,51,78,90,64,63,50,64,1,Analytical Chemistry,Molecular Biology
+48,50,48,57,82,58,41,67,0,"F, a, i, l","F, a, i, l"
+70,72,53,41,51,88,47,92,1,Government and Public Services,Theortical Physics
+55,44,53,83,79,72,81,67,1,Microeconomics,Cultural Heritage Management and Preservation
+88,75,79,86,82,88,70,58,1,Academic Publishing,Economic History
+66,69,89,98,54,51,94,75,1,Sustainable Chemistry and Economic Development,Surveying and Geomatics
+86,42,69,72,50,92,75,52,1,Actuarial Science,Economic Policy Analysis
+88,74,78,42,54,95,69,43,1,Data Analysis,Signal Processing Engineers
+48,94,97,73,100,77,72,66,1,Physics Education,Writing and Editing
+92,74,76,47,50,57,52,44,1,Operation Resarch,Medical History
+49,55,93,64,87,92,47,78,1,Journalism and Media,Medicine
+66,85,64,84,51,88,81,60,1,Archivist,Biotechnology and Economic Development
+85,60,97,85,99,43,48,62,1,Biochemistry,Data Reporting
+85,45,65,71,84,83,100,66,1,Statistical Demography,Chemical Market Forecasting and Analysis
+95,60,46,61,66,64,88,83,1,Geographic Information Systems,Quantum Mechanics
+65,58,100,65,76,65,81,68,1,Biotechnology,Evolution of Chemical Education
+49,82,81,79,82,50,69,42,1,Science Journalism,Environmental History
+41,50,87,92,58,64,69,58,1,Microbiology,Pharmacology
+72,73,85,74,81,83,83,62,1,Public Relations,Digital Marketing
+42,72,96,47,47,94,93,50,1,Historical Preservation and Cultural Heritage,Global Financial Markets
+86,66,55,55,72,58,44,51,1,Data Analysis,Geography of Chemical Waste Management
+44,71,57,95,79,80,65,73,1,Analytical Chemistry,Geochemistry
+51,74,89,78,40,100,50,59,1,Medicine,Physiology
+71,79,62,83,84,56,99,74,1,Cost-benefit Analysis in Chemical Projects,GeoPhysics
+65,75,88,82,81,89,61,47,1,Anatomy,Data Reporting
+59,50,60,41,86,56,49,46,0,"F, a, i, l","F, a, i, l"
+84,47,91,61,77,48,42,98,1,Metorology,Biostatistics
+97,75,62,97,52,58,86,63,1,Economic Policy,Analytical Chemistry
+50,74,66,56,54,70,59,79,1,Geographical Perspectives on Ecosystem Services,Historical Preservation and Cultural Heritage
+72,97,70,68,70,46,45,53,1,Physics Education,Science Editing
+69,49,63,41,88,100,100,80,1,English Language Skills for Economic Forecasting,Data Analysis
+52,77,84,59,62,79,65,62,1,Medicine,Global Financial Markets
+96,85,97,50,54,45,52,83,1,Plantery Science,Technical Writing
+59,43,95,82,70,40,89,70,1,Anatomy,Math Journalism
+54,53,74,93,43,45,94,63,1,Education,Emergency management and Disaster
+57,48,70,63,63,43,60,82,1,Tourism and Hospitality,Environmental Jouralism
+93,40,51,66,48,74,42,80,1,Computer Science,Historical Geography
+94,89,76,53,80,71,91,41,1,Mathematical Modeling,Epidemiology
+60,58,56,77,52,80,90,90,1,Transportation and Logistics,Biophysics
+73,99,45,90,87,69,76,62,1,Chemistry Journalism,Emergency management and Disaster
+87,45,49,94,67,81,80,51,1,Signal Processing Engineers,Historical Journalism
+65,80,40,46,58,91,83,91,1,Historical Geography,Energy Economics
+69,42,55,94,58,71,46,48,1,Organic Chemistry,Financial Sector Regulatoins
+43,91,96,64,92,52,76,41,1,Content Creation,Technical Writing
+85,90,68,68,53,54,43,56,1,Mathematical Physics,Microbiology
+62,59,88,50,100,51,51,58,1,Technical Writing,Environmental Jouralism
+98,98,64,82,48,68,91,56,1,Microeconomics,Chemical Engineering
+99,86,59,54,98,78,46,40,1,Theortical Physics,Pharmacology
+43,96,51,50,59,67,99,66,1,Public Finance,Theortical Physics
+88,69,65,75,64,65,68,95,1,Transportation and Logistics,Historical Journalism
+96,98,84,64,99,87,84,66,1,Data Scientist,econophysics
+45,96,61,50,87,94,54,67,1,Journalism,Radiology
+78,77,45,90,73,98,61,53,1,Analytical Chemistry,Mathematical Archaeology
+84,49,74,76,92,81,98,51,1,Economic History,Medicinal Chemistry
+67,53,58,66,78,88,81,47,1,Business and Economic Journalism,Science Writing
+50,85,63,50,50,48,67,82,1,Transportation and Logistics,Math Journalism
+82,57,55,44,57,46,56,93,1,Emergency management and Disaster,Urban Planing and Regional Development
+49,61,66,67,94,91,58,84,1,Content Creation,Cultural Heritage Preservation
+87,86,48,91,59,57,62,99,1,Spatial Dynamics of Chemical Reactions,Metorology
+60,85,75,45,51,93,89,87,1,Historical Geography,Theortical Physics
+89,44,98,87,92,59,53,62,1,Pharmacology,Biochemistry
+51,64,100,90,92,94,89,40,1,Cost-benefit Analysis in Chemical Projects,English Language Skills for Economic Forecasting
+60,100,86,44,49,42,87,83,1,Economics of Biomedical Research and Development,Editing
+40,43,86,90,87,97,46,83,1,Journalism and Media,Government and Public Services
+44,73,77,82,45,46,83,76,1,Economic Policies in the Chemical Sector,Urban Planing and Regional Development
+58,67,88,88,43,61,63,44,1,Medicine,Biomedical Engineering
+68,54,86,77,99,62,84,51,1,Publishing,Signal Processing Engineers
+43,94,83,50,41,64,64,46,1,Experimental Physics,Epidemiology
+51,75,78,62,44,51,47,94,1,Tourism and Hospitality,Data Analysis
+42,42,57,91,86,76,43,88,1,Chemistry Journalism,Journalism
+96,65,88,73,100,79,58,45,1,Data Scientist,Technical Writing
+40,45,90,56,51,93,86,71,1,Sustainable Economics in Biology Conservation,Landscape Ecology and Biotic Interactions
+61,93,58,94,56,74,87,40,1,Physics Education,Physics Education
+64,97,78,77,99,93,94,98,1,Econometrics,Science Writing
+75,59,44,53,91,72,94,73,1,English Language Skills for Economic Forecasting,Tourism and Hospitality
+85,80,58,73,40,90,88,48,1,Financial Sector Regulatoins,Geochemistry
+52,89,67,70,64,85,89,90,1,Journalism and Media,Economic Policy Analysis
+84,93,91,64,41,69,44,52,1,Quantum Mechanics,Biostatistics
+57,64,93,65,84,55,56,75,1,Microbiology,Mathematical Archaeology
+50,84,74,72,88,82,56,75,1,Experimental Physics,Climate Science
+50,74,47,45,54,75,56,94,1,Tourism and Hospitality,Economic History
+99,67,42,46,61,63,69,48,1,Computer Science,Geography of Chemical Waste Management
+58,90,48,94,49,66,56,77,1,Theortical Physics,Archaeology
+47,48,44,68,72,47,59,82,0,"F, a, i, l","F, a, i, l"
+42,76,44,74,96,86,79,58,1,Technical Writing,Content Creation
+40,93,74,78,47,56,78,63,1,Astrophysics,Landscape Ecology and Biotic Interactions
+92,90,53,50,74,71,64,41,1,Signal Processing Engineers,Data Analysis
+44,44,80,83,59,70,77,59,1,Organic Chemistry,Sustainable Economics in Biology Conservation
+91,87,45,71,55,57,44,41,1,Quantum Mechanics,Economic Policy Analysis
+79,85,85,54,70,69,83,79,1,Biotechnology and Economic Development,Quantum Mechanics
+59,97,79,49,75,51,47,41,1,Experimental Physics,Creative Writing
+100,49,48,58,95,85,77,88,1,Journalism and Media,Translation
+60,68,68,85,97,59,61,67,1,Analytical Chemistry,Chemical Supply Chain Management
+56,71,95,76,100,50,42,82,1,Writing and Editing,Physical Chemistry
+99,99,86,43,42,82,100,89,1,Environmental Economics,Biotechnology and Economic Development
+62,50,96,93,67,69,66,62,1,Education,Macroeconomics
+60,41,94,97,81,91,47,53,1,Government and Public Services,Historical Fiction Writing
+57,43,83,74,96,80,74,85,1,Geographical Perspectives on Ecosystem Services,Content Management
+97,48,98,67,88,42,91,79,1,Financial Services,Sustainable Economics in Biology Conservation
+90,43,42,95,78,53,86,49,1,Microeconomics,Operation Resarch
+87,42,94,83,100,64,50,84,1,Biochemistry,Biotechnology
+72,66,58,45,78,46,57,95,1,Transportation and Logistics,Financial Services
+52,69,76,84,69,98,96,68,1,Evolution of Chemical Education,Environmental Economics
+84,79,56,92,87,47,99,78,1,Content Creation,Geospatial Techoology
+49,70,82,74,49,57,100,67,1,Biotechnology and Economic Development,Science Communication and Writing
+91,75,54,93,100,56,89,65,1,Translation,Inorganic Chemistry
+77,46,90,79,58,77,95,56,1,Medicine,Public Finance
+96,96,64,58,42,86,85,45,1,Science Education and Outreach,Historical Preservation and Cultural Heritage
+100,48,79,74,42,41,100,83,1,Cartography,Lab Assistant
+60,46,55,72,80,46,85,58,1,International Economics,Data Analysis
+89,83,53,74,44,64,97,54,1,Data Analysis,Astrophysics
+87,48,53,92,70,83,95,64,1,Economic History Research,Math Journalism
+87,79,91,46,78,66,77,75,1,Biostatistics,Conservation of Biodiversity Hotspots
+77,44,93,89,66,52,51,77,1,Education,Microbiology
+93,72,75,62,77,91,86,90,1,Statistical Demography,Emergency management and Disaster
+68,70,78,54,81,42,55,98,1,Education,Conservation of Biodiversity Hotspots
+56,88,82,67,71,55,55,71,1,Experimental Physics,Geographic Information Systems
+50,84,41,96,78,82,92,53,1,Archivist,Evolution of Chemical Education
+93,84,79,51,41,55,85,80,1,Mathematics,Anatomy
+97,80,46,87,95,90,56,68,1,Scientific Writing in Chemistry,Cultural Heritage Management and Preservation
+94,65,87,42,57,97,78,48,1,Historical Anthropology,Econometrics
+66,88,40,88,99,50,60,57,1,Chemical Engineering,Science Education and Outreach
+54,45,53,75,77,59,69,53,1,Lab Assistant,International Development
+97,52,47,68,65,49,68,64,1,Data Scientist,Econometrics
+65,67,68,40,84,77,76,94,1,Publishing,Travel Writing and Guidebook Publishing
+70,68,71,94,84,77,51,45,1,Lab Assistant,Government and Public Services
+68,63,91,68,58,47,68,65,1,Ecology,Urban Planing and Regional Development
+57,44,90,47,91,73,84,77,1,Economics of Biomedical Research and Development,Macroeconomics
+61,55,80,78,63,86,65,59,1,Government and Public Services,Statistical Demography
+81,65,58,68,85,79,53,76,1,Content Creation,Spatial Dynamics of Chemical Reactions
+90,69,77,45,61,84,90,55,1,Public Finance,Economic History Research
+45,82,88,53,42,76,45,77,1,Ecology,Spatial Dynamics of Chemical Reactions
+63,63,92,90,71,57,74,97,1,Microbiology,Academic Research
+93,88,53,56,94,40,88,72,1,Science Journalism,Sustainable Economics in Biology Conservation
+66,69,88,77,88,48,67,78,1,Technical Writing,Biotechnology and Economic Development
+90,72,44,99,41,49,88,52,1,Analytical Chemistry,Business and Economic Journalism
+81,74,94,46,98,48,81,92,1,Data Reporting,econophysics
+48,68,70,95,72,67,75,90,1,Lab Assistant,Journalism and Media
+49,73,95,66,45,87,44,83,1,Biotechnology,Museum Curator
+57,46,47,40,84,40,63,58,0,"F, a, i, l","F, a, i, l"
+74,90,92,73,51,84,45,54,1,BioMechanics,Theortical Physics
+81,86,100,82,96,78,47,69,1,Mathematical Biology,Landscape Ecology and Biotic Interactions
+43,71,98,50,90,61,62,98,1,Journalism,Transportation and Logistics
+90,46,89,54,84,97,97,43,1,Museum Curator,Economic Policy Analysis
+86,48,54,57,84,99,59,94,1,Journalism,Copywriting
+52,93,59,50,90,49,72,75,1,Publishing,Climate Science
+61,73,78,87,93,85,55,72,1,Chemistry and Scientific Revolution,Inorganic Chemistry
+83,77,45,71,85,60,70,79,1,Operation Resarch,Surveying and Geomatics
+48,84,40,43,70,50,79,94,1,Transportation and Logistics,Metorology
+41,72,100,59,51,40,69,52,1,Ecology,Data Reporting
+41,69,52,79,42,47,47,88,0,"F, a, i, l","F, a, i, l"
+91,49,89,80,82,77,63,42,1,Bioinformatics,Mathematical Biology
+69,52,99,87,88,42,84,98,1,Environmental Jouralism,Biostatistics
+52,87,66,96,62,44,49,80,1,Materials Science,Tourism and Hospitality
+62,90,56,47,49,81,69,100,1,Science Journalism,Biotechnology
+66,96,51,93,44,58,71,91,1,Geography of Chemical Waste Management,Geospatial Techoology
+83,48,48,60,74,82,63,60,1,Computer Science,Geography of Chemical Waste Management
+88,72,55,93,40,85,93,94,1,Evolution of Chemical Education,Geographic Information Systems
+92,76,95,63,82,46,91,44,1,Risk Manager,Chemical Engineering
+80,40,81,90,62,62,97,54,1,Analytical Chemistry,Lab Assistant
+56,93,86,76,71,91,87,73,1,Biotechnology and Economic Development,Sustainable Chemistry and Economic Development
+96,100,59,54,95,60,42,75,1,Publishing and Editing in Physics,Data Analysis
+88,67,40,80,85,46,70,80,1,Copywriting,Technical Writing for Chemistry
+44,57,58,86,54,64,55,88,1,Spatial Dynamics of Chemical Reactions,Organic Chemistry
+69,98,73,86,79,83,83,89,1,Microeconomics,Chemical Engineering
+62,43,83,60,58,52,42,97,1,Geographical Perspectives on Ecosystem Services,Conservation of Biodiversity Hotspots
+46,84,43,74,96,58,54,77,1,Physics Education,Archival Studies
+54,89,83,43,80,50,96,67,1,Medical Physics,Geographical Perspectives on Ecosystem Services
+41,82,40,90,70,83,87,88,1,Archaeology,Geography of Chemical Waste Management
+72,90,48,92,49,100,54,81,1,Historical Instrumentation and Experimental Replication,Quantitative Historical Analysis
+40,43,93,40,68,53,65,85,1,Geographical Perspectives on Ecosystem Services,Transportation and Logistics
+73,64,77,73,83,50,62,49,1,Technical Writing,Editing
+94,92,77,57,81,55,91,46,1,econophysics,Physics Education
+67,82,73,61,56,43,54,95,1,Science Journalism,Astrophysics
+41,84,56,82,88,74,53,40,1,Analytical Chemistry,Sustainable Economics in Biology Conservation
+79,92,76,100,66,74,62,83,1,Theortical Physics,Cultural Heritage Management and Preservation
+92,40,79,78,87,56,49,72,1,Copywriting,Biostatistics
+58,74,54,89,84,71,78,67,1,Chemistry Education and Curriculum Development,Academic Publishing
+40,45,41,55,59,81,77,90,1,Academic Research and Teaching,Archival Studies
+43,70,43,50,98,53,50,73,1,Copywriting,Economic Policies in the Chemical Sector
+77,60,95,54,40,54,85,57,1,Biotechnology and Economic Development,Mathematical Physics
+88,62,68,70,59,79,99,84,1,Economic Policy,Archaeology
+45,80,54,65,63,85,56,78,1,Journalism and Media,Historical Anthropology
+58,90,91,59,89,87,95,98,1,Copywriting,Microbiology
+43,62,83,49,80,91,63,55,1,Biotechnology,Technical Writing
+74,64,89,51,85,55,45,65,1,Publishing,Computational Biology
+65,49,81,73,85,64,79,67,1,Journalism,Publishing
+92,98,69,65,43,67,68,69,1,Signal Processing Engineers,Mathematical Archaeology
+44,56,75,87,54,61,96,45,1,Inorganic Chemistry,Education
+84,74,67,47,78,53,77,75,1,Operation Resarch,Math Journalism
+79,100,45,59,87,72,56,85,1,Emergency management and Disaster,Geospatial Techoology
+63,45,75,86,86,48,54,71,1,Chemistry Education and Curriculum Development,Academic Research
+86,98,54,100,68,84,54,42,1,Government and Public Services,Historiography and Criticism
+53,42,61,54,69,95,69,46,1,Museum Curator,Publishing
+95,45,72,57,48,58,93,64,1,Econometrics,Environmental Economics
+86,48,45,48,47,65,96,77,1,International Economics,econophysics
+83,66,65,41,81,42,52,68,1,Communications,Medicine
+79,82,84,45,44,65,67,75,1,Medicine,Mathematical Physics
+97,93,41,75,95,60,84,68,1,Technical Writing,Chemical Education
+58,69,81,71,91,55,62,71,1,Communications,Medicine
+76,55,50,72,78,50,78,65,1,Education,GeoPhysics
+96,65,89,93,85,64,54,75,1,Biostatistics,Medical Physics
+87,100,87,47,76,51,73,68,1,Medicine,Geographic Information Systems
+84,57,74,54,45,98,72,48,1,Data Analysis,Geographic Information Systems
+78,55,54,63,87,42,62,93,1,Emergency management and Disaster,Theortical Physics
+58,98,90,49,63,83,62,53,1,Archivist,Risk Manager
+78,43,45,92,78,72,56,60,1,Education,Lab Assistant
+94,100,62,52,63,75,81,41,1,Science Journalism,Bioinformatics
+84,43,75,59,51,46,84,76,1,Financial Services,English Language Skills for Economic Forecasting
+97,83,73,77,67,96,81,41,1,Physics Education,econophysics
+74,81,71,94,49,61,54,65,1,Atmospheric Chemistry,Chemistry and Scientific Revolution
+93,73,50,47,78,95,89,82,1,Financial Services,Tourism and Hospitality
+64,87,93,97,51,99,74,60,1,Biomedical Engineering,Pharmacology
+40,100,69,68,96,56,49,52,1,Physics Journalism,Spatial Dynamics of Chemical Reactions
+91,45,58,49,77,85,56,100,1,Archaeology,Operation Resarch
+68,99,98,65,40,60,75,61,1,Astrophysics,Biochemistry
+48,47,50,93,84,90,78,48,1,Historical Journalism,Archaeology
+94,41,88,70,66,86,61,89,1,Conservation of Biodiversity Hotspots,Computer Science
+92,80,76,65,63,48,43,69,1,Operation Resarch,Computational Biology
+50,83,52,42,63,89,55,54,1,History of Physics,Public Relations
+93,51,76,68,47,86,45,97,1,Mathematics,Mathematical Modeling
+54,77,65,51,48,83,59,87,1,Transportation and Logistics,Geography of Chemical Waste Management
+100,44,91,87,76,61,64,42,1,Computational Biology,Environmental History
+66,62,63,58,60,84,52,100,1,Archivist,Signal Processing Engineers
+49,46,99,62,96,88,56,78,1,Ecology,Macroeconomics
+77,47,80,95,53,100,69,67,1,Journalism and Media,Anatomy
+64,44,71,63,74,50,84,83,1,Microeconomics,Molecular Biology
+85,100,89,86,67,59,94,89,1,Urban Planing and Regional Development,Geography of Chemical Waste Management
+90,57,54,81,75,61,60,66,1,Analytical Chemistry,Mathematical Modeling
+45,69,52,96,89,99,63,86,1,Historical Education and Outreach,GeoPhysics
+64,45,60,63,41,100,100,97,1,Archivist,Risk Manager
+77,84,96,59,67,100,82,93,1,econophysics,Historical Preservation and Cultural Heritage
+94,56,78,76,98,85,87,90,1,Global Financial Markets,Cartography
+89,64,61,63,53,85,92,72,1,Public Finance,Molecular Biology
+44,98,63,71,100,59,60,65,1,Astrophysics,Publishing
+56,81,53,71,90,92,74,88,1,Emergency management and Disaster,History of Physics
+41,52,41,95,86,88,57,47,1,Chemistry Education and Curriculum Development,Editing
+99,99,45,81,87,86,66,99,1,Chemistry Journalism,Data Reporting
+87,94,54,45,84,62,61,64,1,Mathematical Modeling,Cartography
+95,67,78,41,89,57,70,83,1,Academic Research,Content Creation
+56,92,48,58,73,41,48,43,0,"F, a, i, l","F, a, i, l"
+100,52,79,79,63,67,44,52,1,Operation Resarch,Education
+49,45,53,94,46,80,58,75,1,Lab Assistant,Government and Public Services
+73,94,89,87,75,52,42,73,1,Inorganic Chemistry,Editing
+71,44,72,79,54,53,83,96,1,Environmental Economics,Data Reporting
+70,83,83,98,53,82,44,90,1,Science Journalism,History of Physics
+50,70,97,82,51,41,80,73,1,Molecular Biology,Anatomy
+82,50,53,63,70,85,83,85,1,Archivist,Business and Economic Journalism
+90,79,98,63,42,81,84,69,1,Biotechnology and Economic Development,Environmental History
+52,80,62,81,89,99,70,70,1,Chemistry Education and Curriculum Development,BioMechanics
+88,79,91,74,60,50,43,48,1,Bioinformatics,Biophysics
+44,48,51,53,68,99,72,46,1,Journalism and Media,Macroeconomics
+89,57,98,96,70,62,87,47,1,Epidemiology,Technical Writing
+58,65,55,43,44,96,77,74,1,Archivist,Medical History
+77,61,88,50,64,51,75,75,1,Anatomy,Microeconomics
+58,40,69,71,45,99,78,54,1,Historical Preservation and Cultural Heritage,Landscape Ecology and Biotic Interactions
+60,73,82,54,65,75,69,63,1,Ecology,Content Creation
+90,40,98,82,57,75,58,59,1,Biotechnology,Geography of Chemical Waste Management
+97,98,60,65,68,48,44,52,1,Signal Processing Engineers,Journalism
+55,93,88,50,60,55,75,100,1,Transportation and Logistics,Anatomy
+97,95,81,79,92,77,59,50,1,Experimental Physics,Data Scientist
+65,96,52,99,79,58,81,93,1,Cost-benefit Analysis in Chemical Projects,International Economics
+80,53,86,52,54,47,85,66,1,Econometrics,Financial Services
+54,77,95,51,94,50,100,84,1,Cultural Heritage Preservation,English Language Skills for Economic Forecasting
+77,47,60,94,46,91,82,98,1,Chemical Supply Chain Management,Chemical Engineering
+76,90,73,72,73,77,79,96,1,Physics Education,Sustainable Economics in Biology Conservation
+81,92,40,48,53,78,91,69,1,Quantum Mechanics,Travel Writing and Guidebook Publishing
+77,47,65,44,66,67,83,55,1,Econometrics,Data Reporting
+87,60,67,65,88,42,84,83,1,Transportation and Logistics,Quantitative Analyst
+90,71,65,41,67,65,71,71,1,Operation Resarch,Geospatial Techoology
+72,46,40,65,83,83,55,55,1,Digital Humanities,Historical Journalism
+81,69,43,41,96,85,43,75,1,Economic History Research,Historical Research and Writing
+57,51,68,94,65,81,87,50,1,Education,Quantitative Historical Analysis
+71,76,44,98,48,52,75,43,1,Organic Chemistry,Atmospheric Chemistry
+67,47,54,97,96,43,88,93,1,Spatial Dynamics of Chemical Reactions,Analytical Chemistry
+52,53,86,83,41,54,73,48,1,Ecology,History of Chemical Discoveries
+46,91,81,90,91,57,44,78,1,Theortical Physics,Chemistry and Scientific Revolution
+83,41,44,40,57,80,46,61,0,"F, a, i, l","F, a, i, l"
+68,85,92,90,90,42,93,84,1,Digital Marketing,Economics
+73,59,56,73,84,48,46,80,1,Public Relations,Chemistry Journalism
+58,45,89,97,95,74,85,71,1,Technical Writing,Chemical Market Forecasting and Analysis
+71,64,74,89,61,65,82,83,1,Environmental Economics,Public Finance
+55,41,75,64,76,70,52,96,1,Tourism and Hospitality,Content Management
+92,64,88,84,77,58,68,50,1,Data Scientist,Anatomy
+69,64,59,40,71,95,57,55,1,Government and Public Services,Energy Economics
+84,42,50,61,48,82,49,64,1,Data Analysis,Cultural Heritage Management and Preservation
+58,92,80,81,56,54,80,94,1,Physics Education,Emergency management and Disaster
+42,40,46,54,68,98,43,100,1,Transportation and Logistics,Pharmacology
+93,64,41,91,91,85,90,84,1,Analytical Chemistry,Cultural Heritage Management and Preservation
+55,85,43,49,97,41,78,83,1,Cultural Heritage Preservation,Experimental Physics
+45,45,64,92,95,96,91,52,1,Archival Studies,Environmental Economics
+59,73,59,100,48,58,42,42,1,Inorganic Chemistry,Copywriting
+40,73,48,79,62,46,79,73,1,Geography of Chemical Waste Management,Chemistry and Resource Economics
+97,88,68,84,72,59,63,41,1,Chemical Engineering,Cultural Heritage Preservation
+88,73,51,73,58,85,92,83,1,Transportation and Logistics,Lab Assistant
+79,70,47,70,97,48,74,56,1,Journalism,Public Finance
+49,45,73,47,60,62,61,89,1,Transportation and Logistics,Publishing
+90,87,77,63,84,80,72,89,1,Science Writing,Environmental Economics
+100,98,55,76,86,76,95,56,1,Quantum Mechanics,Statistical Demography
+81,63,76,98,54,72,46,59,1,Computer Science,Mathematical Archaeology
+98,82,76,66,72,70,84,92,1,Urban Planing and Regional Development,Publishing
+63,97,90,54,57,100,89,98,1,Urban Planing and Regional Development,Archaeology
+70,67,70,72,84,71,56,99,1,Publishing,Pharmacology
+46,76,42,47,88,57,59,46,0,"F, a, i, l","F, a, i, l"
+70,70,71,41,49,41,66,59,0,"F, a, i, l","F, a, i, l"
+74,48,50,63,67,95,94,96,1,Economic Policy,Macroeconomics
+85,73,74,83,76,80,51,42,1,Organic Chemistry,Historical Instrumentation and Experimental Replication
+77,84,77,50,85,80,56,47,1,Research in Science and Technology Communication,Global Financial Markets
+85,83,61,53,50,66,70,53,1,Theortical Physics,Quantitative Analyst
+64,89,87,53,63,67,50,77,1,Anatomy,Astrophysics
+57,75,98,42,59,52,42,71,1,Ecology,Historical Instrumentation and Experimental Replication
+51,93,81,75,78,66,73,43,1,Science Journalism,Digital Humanities
+57,69,97,100,92,92,96,74,1,Global Financial Markets,History of Chemical Discoveries
+44,61,61,54,43,52,50,61,0,"F, a, i, l","F, a, i, l"
+42,53,46,88,81,71,89,63,1,English Language Skills for Economic Forecasting,Historical Research and Writing
+94,76,80,65,76,43,88,43,1,Financial Services,Microeconomics
+41,59,100,56,55,82,97,46,1,Economic Policy Analysis,BioMechanics
+86,98,47,74,76,97,54,52,1,Museum Curator,Physics Education
+62,73,93,78,90,91,52,64,1,Communications,Academic Research and Teaching
+55,73,85,83,53,57,72,71,1,Lab Assistant,Archaeology
+78,89,100,76,45,66,96,77,1,Public Finance,Energy Economics
+84,73,43,67,70,57,100,92,1,Tourism and Hospitality,Technical Writing
+42,93,63,84,43,41,65,82,1,Geospatial Techoology,Energy Economics
+60,59,94,100,67,87,96,89,1,Transportation and Logistics,Chemical Market Forecasting and Analysis
+66,96,74,54,76,66,98,47,1,Econometrics,Anatomy
+49,96,62,97,72,93,45,84,1,Science Communication and Writing,Chemistry Education and Curriculum Development
+57,92,52,90,53,55,56,60,1,Materials Science,Chemistry Education and Curriculum Development
+58,74,97,98,60,90,77,100,1,Historical Preservation and Cultural Heritage,Biotechnology
+84,43,81,81,99,100,48,52,1,Mathematics,Cultural Heritage Preservation
+82,83,89,54,91,62,59,97,1,Technical Writing,Science Education and Outreach
+87,91,89,47,68,81,67,73,1,Mathematical Biology,Environmental Economics
+49,75,49,64,47,87,87,63,1,Microeconomics,Mathematical Physics
+56,97,70,41,45,75,54,67,1,Science Journalism,Sustainable Economics in Biology Conservation
+77,77,82,61,94,81,90,54,1,Journalism,Computer Science
+47,86,83,83,54,52,78,44,1,Anatomy,Ecology
+83,85,86,88,58,40,52,91,1,Theortical Physics,Spatial Dynamics of Chemical Reactions
+68,41,42,98,92,77,54,60,1,Organic Chemistry,Medicinal Chemistry
+60,97,81,93,83,79,56,56,1,Publishing,Statistical Demography
+74,62,85,87,57,76,65,43,1,Analytical Chemistry,Chemical Education
+70,82,90,78,91,77,88,93,1,English Language Skills for Economic Forecasting,Biochemistry
+88,94,52,64,40,56,42,63,1,Quantum Mechanics,Statistical Demography
+82,52,52,76,48,61,43,90,1,Emergency management and Disaster,Astrophysics
+75,75,42,74,81,88,55,50,1,Journalism,Astrophysics
+84,65,84,87,89,85,75,47,1,Mathematical Archaeology,Data Reporting
+66,92,79,52,69,68,94,61,1,Theortical Physics,Urban Planing and Regional Development
+85,78,94,66,86,57,67,65,1,Data Reporting,Pharmacology
+54,74,79,98,50,63,56,44,1,Lab Assistant,Technical Writing for Chemistry
+41,57,79,47,71,99,66,56,1,Government and Public Services,GeoPhysics
+99,61,59,84,90,80,82,95,1,Chemical Market Forecasting and Analysis,Environmental Jouralism
+62,76,47,80,88,44,49,63,1,Public Relations,Journalism
+56,95,84,90,52,74,84,84,1,Geochemistry,Molecular Biology
+49,99,45,99,67,59,50,51,1,Science Journalism,Museum Curator
+51,98,48,46,40,63,48,66,0,"F, a, i, l","F, a, i, l"
+72,67,45,93,45,41,47,98,1,Transportation and Logistics,Medicine
+58,100,66,82,49,76,80,49,1,Analytical Chemistry,Energy Economics
+75,43,72,62,57,65,80,92,1,Transportation and Logistics,Chemical Engineering
+54,65,64,85,71,85,87,62,1,Chemical Market Forecasting and Analysis,Experimental Physics
+45,64,68,96,100,94,41,63,1,Historical Journalism,Molecular Biology
+51,76,64,78,94,84,98,72,1,Microeconomics,Education
+45,76,81,70,90,57,96,97,1,Sustainable Economics in Biology Conservation,Economic Policies in the Chemical Sector
+83,61,99,58,73,95,89,80,1,Risk Manager,Cartography
+92,46,85,42,94,50,51,69,1,Writing and Editing,Metorology
+70,46,93,50,73,56,55,71,1,Ecology,Landscape Ecology and Biotic Interactions
+50,72,66,92,83,99,90,61,1,English Language Skills for Economic Forecasting,Philosophy of Physics
+41,81,86,92,54,58,99,93,1,Economics of Chemical Manufacturing,Molecular Biology
+90,53,49,40,75,43,65,96,1,Operation Resarch,Urban Planing and Regional Development
+62,61,88,79,90,46,87,95,1,English Language Skills for Economic Forecasting,Biophysics
+78,74,57,79,55,84,64,92,1,Archivist,Emergency management and Disaster
+56,97,90,64,65,47,84,45,1,Economics of Biomedical Research and Development,Economics of Biomedical Research and Development
+42,99,49,56,86,85,45,79,1,Government and Public Services,History of Chemical Discoveries
+95,72,66,55,49,83,72,87,1,Cultural Heritage Management and Preservation,Geographic Information Systems
+71,67,55,99,96,63,93,81,1,Education,Climate Science
+96,99,100,86,40,62,80,57,1,Geochemistry,Sustainable Economics in Biology Conservation
+92,46,53,97,65,75,66,98,1,Mathematics,Business and Economic Journalism
+80,60,100,44,63,84,53,80,1,Biotechnology,Cultural Heritage Preservation
+70,90,91,91,66,53,51,73,1,Chemical Engineering,Chemistry Education and Curriculum Development
+72,58,97,82,43,68,62,89,1,Ecology,Biotechnology
+87,97,68,72,58,76,82,49,1,Economics,Economic History
+77,55,81,84,79,64,48,93,1,Emergency management and Disaster,Mathematical Archaeology
+52,81,89,90,98,87,50,97,1,Biochemistry,Philosophy of Physics
+96,89,92,59,64,87,63,100,1,Physics Education,GeoPhysics
+98,83,75,56,55,98,61,41,1,Data Analysis,Business and Economic Journalism
+61,71,92,46,78,64,77,94,1,Landscape Ecology and Biotic Interactions,Cartography
+64,74,41,78,47,75,76,95,1,Transportation and Logistics,Energy Economics
+82,84,100,53,40,89,88,83,1,Microeconomics,Climate Science
+56,61,80,63,94,85,64,54,1,Publishing,Cost-benefit Analysis in Chemical Projects
+65,56,72,96,84,55,78,40,1,Chemistry Education and Curriculum Development,Chemistry and Resource Economics
+40,64,45,95,44,93,81,77,1,Economic Policies in the Chemical Sector,Landscape Ecology and Biotic Interactions
+52,74,66,68,95,53,53,69,1,Communications,Chemical Education
+47,86,98,71,78,67,79,44,1,Biomedical Engineering,English Language Skills for Economic Forecasting
+67,44,45,48,96,92,41,75,1,Museum Curation and Interpretation,Geospatial Techoology
+76,96,67,92,94,83,61,44,1,Organic Chemistry,Biotechnology and Economic Development
+65,46,88,86,40,57,97,64,1,Economics of Biomedical Research and Development,Economic Policy Analysis
+84,80,97,59,98,84,42,74,1,Government and Public Services,Math Journalism
+84,49,89,99,63,48,96,46,1,Analytical Chemistry,Organic Chemistry
+44,81,100,90,58,85,80,62,1,Environmental History,Spatial Dynamics of Chemical Reactions
+83,65,62,62,69,60,94,94,1,Quantitative Analyst,Data Reporting
+78,85,94,69,86,100,62,94,1,History of Science,Historiography and Criticism
+91,66,66,86,66,78,87,41,1,Econometrics,Operation Resarch
+67,52,60,81,87,63,62,72,1,Chemistry Education and Curriculum Development,Medicinal Chemistry
+89,45,46,53,50,95,68,95,1,Surveying and Geomatics,Economic Policy Analysis
+43,45,90,82,63,71,67,100,1,Biochemistry,Cultural Heritage Preservation
+61,69,95,67,70,99,69,77,1,History of Science,Geographical Perspectives on Ecosystem Services
+52,99,50,45,81,97,79,67,1,Science Journalism,Mathematical Modeling
+48,40,45,74,47,63,54,59,0,"F, a, i, l","F, a, i, l"
+52,47,79,68,43,44,97,68,1,Economic Policy,Pharmacology
+54,52,86,84,62,66,98,48,1,Economics of Biomedical Research and Development,Medicinal Chemistry
+74,67,59,97,84,86,84,64,1,History of Chemical Discoveries,Data Reporting
+84,73,76,58,97,47,40,83,1,Data Scientist,BioMechanics
+43,55,82,93,57,61,86,73,1,Anatomy,Biochemistry
+50,42,93,48,58,59,77,79,1,Microbiology,Transportation and Logistics
+57,68,64,43,77,55,58,59,1,Experimental Physics,Economic Policy Analysis
+83,49,47,86,80,51,43,41,1,Organic Chemistry,Geospatial Techoology
+78,67,61,77,64,76,67,83,1,Emergency management and Disaster,Physics Education
+40,80,96,49,57,82,83,75,1,Anatomy,Astrophysics
+56,66,82,94,96,58,55,81,1,Environmental Jouralism,Experimental Physics
+70,71,86,57,82,79,46,71,1,Public Relations,Technical Writing
+58,47,54,73,74,99,42,86,1,Emergency management and Disaster,Transportation and Logistics
+68,77,95,66,74,77,77,95,1,Geographical Perspectives on Ecosystem Services,Ecology
+85,85,82,81,79,84,54,81,1,Metorology,Physics Content Creation
+93,59,73,85,75,43,85,43,1,Inorganic Chemistry,Medicinal Chemistry
+71,44,77,84,43,62,76,94,1,Geography of Chemical Waste Management,Spatial Dynamics of Chemical Reactions
+78,60,55,89,90,44,44,71,1,Public Relations,Geographical Perspectives on Ecosystem Services
+99,100,83,61,92,49,52,72,1,BioMechanics,Math Journalism
+73,84,87,47,62,95,63,76,1,Journalism and Media,Biomedical Engineering
+69,96,41,45,44,53,80,49,0,"F, a, i, l","F, a, i, l"
+47,63,89,96,82,48,58,57,1,Medicine,Education
+95,41,46,92,75,89,49,67,1,Museum Curator,Spatial Dynamics of Chemical Reactions
+51,53,71,88,45,98,49,45,1,Government and Public Services,Mathematical Modeling
+80,100,58,87,92,50,48,96,1,Chemistry Education and Curriculum Development,Mathematical Physics
+91,88,47,89,97,62,47,71,1,Writing and Editing,Quantitative Historical Analysis
+98,93,66,85,96,65,77,44,1,Astrophysics,Scientific Writing in Chemistry
+93,79,97,56,53,99,46,69,1,Anatomy,GeoPhysics
+66,54,65,67,92,56,51,65,1,Journalism,Technical Writing
+67,43,100,93,69,90,68,64,1,Pharmacology,Conservation of Biodiversity Hotspots
+57,72,66,88,72,59,78,56,1,Organic Chemistry,Evolution of Chemical Education
+50,99,74,78,57,67,76,85,1,Transportation and Logistics,Energy Economics
+95,55,72,100,63,60,82,59,1,Risk Manager,Mathematical Biology
+70,41,76,49,74,40,44,90,1,Tourism and Hospitality,Academic Research
+70,50,51,43,50,54,96,82,1,Environmental Economics,Technical Writing
+53,89,61,100,53,57,56,76,1,Inorganic Chemistry,Biotechnology
+51,99,67,58,66,70,46,47,1,Astrophysics,Archivist
+76,83,56,50,48,100,49,89,1,Emergency management and Disaster,Mathematical Biology
+61,68,90,93,52,98,92,99,1,Spatial Dynamics of Chemical Reactions,Anatomy
+67,58,63,78,51,63,83,65,1,Macroeconomics,Economics of Biomedical Research and Development
+76,86,64,55,43,56,58,45,1,Physics Education,Mathematical Biology
+100,51,76,43,50,52,72,98,1,Data Analysis,Education
+91,42,92,100,90,97,42,47,1,Technical Writing,Molecular Biology
+98,80,54,89,72,60,93,91,1,Organic Chemistry,econophysics
+93,72,91,63,74,84,84,40,1,Computational Biology,Science Education and Outreach
+58,54,90,74,58,74,45,90,1,Emergency management and Disaster,Biostatistics
+80,53,54,68,45,77,78,45,1,Government and Public Services,Lab Assistant
+95,66,40,89,70,55,72,94,1,Spatial Dynamics of Chemical Reactions,Financial Services
+67,41,80,67,61,55,43,65,0,"F, a, i, l","F, a, i, l"
+95,68,92,91,58,77,67,90,1,Biochemistry,Quantum Mechanics
+55,42,54,84,60,50,58,79,1,Education,Economics
+72,66,91,83,93,69,49,91,1,Conservation of Biodiversity Hotspots,Technical Writing
+93,53,97,60,43,45,85,68,1,Mathematics,Astrophysics
+89,54,91,70,64,59,55,41,1,Epidemiology,Operation Resarch
+69,84,55,64,56,84,90,85,1,Public Finance,Chemical Engineering
+62,54,44,49,86,71,49,69,1,Public Relations,Chemistry Journalism
+73,53,46,55,89,46,73,74,1,Technical Writing,Energy Economics
+43,99,52,78,59,73,55,77,1,Experimental Physics,Philosophy of Physics
+81,73,95,85,90,73,70,69,1,Bioinformatics,Biotechnology and Economic Development
+40,86,78,80,89,74,99,51,1,Research in Science and Technology Communication,Pharmacology
+43,94,63,42,58,70,91,81,1,Transportation and Logistics,Economic History
+55,97,89,88,46,64,94,59,1,Atmospheric Chemistry,Computational Biology
+52,77,66,96,91,97,58,50,1,Chemistry Education and Curriculum Development,Global Financial Markets
+73,58,59,97,76,87,87,100,1,Economic Policies in the Chemical Sector,Cost-benefit Analysis in Chemical Projects
+70,100,51,44,77,93,88,91,1,Cultural Heritage Management and Preservation,Econometrics
+82,86,47,80,93,59,57,62,1,Content Creation,Science Journalism
+67,78,88,52,71,98,71,99,1,Landscape Ecology and Biotic Interactions,Mathematical Archaeology
+69,45,98,63,91,52,83,79,1,Economic Policy,Creative Writing
+80,79,91,65,98,78,69,50,1,Creative Writing,Econometrics
+62,99,94,68,54,82,93,40,1,Radiology,Academic Publishing
+74,89,68,84,44,84,76,56,1,Chemical Engineering,Chemical Education
+42,46,54,68,59,82,93,40,1,Economic History,Microeconomics
+61,98,72,50,59,89,51,90,1,Astrophysics,Geographic Information Systems
+83,82,44,77,75,61,61,54,1,Mathematical Physics,econophysics
+86,84,79,86,66,47,60,74,1,Physical Chemistry,Publishing
+70,87,96,56,53,47,48,89,1,Emergency management and Disaster,Analytical Chemistry
+78,66,89,87,97,69,90,92,1,Emergency management and Disaster,Metorology
+46,65,54,92,61,72,86,47,1,Microeconomics,Physics Education
+96,51,62,91,49,81,89,40,1,Financial Services,Molecular Biology
+99,83,72,100,48,50,81,65,1,Chemical Supply Chain Management,Spatial Dynamics of Chemical Reactions
+97,71,48,83,49,57,94,85,1,Environmental Economics,Cartography
+60,91,55,79,60,49,54,98,1,Plantery Science,Geospatial Techoology
+98,82,96,80,65,62,67,62,1,BioMechanics,Mathematical Modeling
+44,91,95,74,62,43,58,72,1,Ecology,Geochemistry
+88,54,76,59,90,44,62,86,1,Content Creation,Global Financial Markets
+67,42,90,70,99,62,54,66,1,Microbiology,Economics of Chemical Manufacturing
+89,95,60,48,59,44,93,53,1,Economics,Data Scientist
+72,61,51,87,65,47,43,83,1,Lab Assistant,Quantum Mechanics
+43,68,49,87,87,78,44,41,1,Technical Writing for Chemistry,Chemistry and Scientific Revolution
+69,50,92,53,95,68,40,73,1,Journalism,Transportation and Logistics
+73,66,56,95,46,47,54,62,1,Lab Assistant,International Development
+93,87,88,71,41,45,72,48,1,Experimental Physics,Microbiology
+75,67,64,52,85,89,59,65,1,Historical Fiction Writing,Economic Policy
+51,51,75,57,77,91,54,80,1,Archivist,Chemistry and Scientific Revolution
+45,79,100,57,95,82,82,99,1,Environmental Economics,Ecology
+95,65,63,88,81,75,67,91,1,Content Creation,Economic Policy Analysis
+87,87,76,86,50,78,96,69,1,Energy Economics,econophysics
+84,78,89,74,43,51,91,63,1,Computational Biology,Microeconomics
+45,51,55,78,72,63,71,51,1,Historical Preservation and Cultural Heritage,Pharmacology
+44,88,68,70,95,49,40,53,1,Experimental Physics,History of Physics
+53,77,45,74,96,64,86,71,1,English Language Skills for Economic Forecasting,Public Relations
+82,46,96,80,65,86,40,86,1,Conservation of Biodiversity Hotspots,Museum Curator
+87,94,91,61,79,50,92,84,1,Theortical Physics,International Development
+43,54,100,89,68,44,40,64,1,Ecology,Digital Marketing
+82,70,69,72,57,42,56,58,1,Computer Science,Organic Chemistry
+63,44,50,91,74,42,78,67,1,Education,Technical Writing for Chemistry
+79,55,70,100,79,48,43,71,1,Lab Assistant,Research in Science and Technology Communication
+62,57,73,76,47,79,68,70,1,Museum Curator,Sustainable Chemistry and Economic Development
+99,75,97,48,52,66,86,77,1,Anatomy,BioMechanics
+72,46,96,66,91,45,100,72,1,Content Management,Data Scientist
+70,88,49,98,50,72,95,73,1,Astrophysics,Cost-benefit Analysis in Chemical Projects
+68,56,92,99,62,61,47,74,1,Analytical Chemistry,Evolution of Chemical Education
+60,87,72,94,65,52,47,42,1,Inorganic Chemistry,Cultural Heritage Preservation
+81,83,100,84,45,71,59,77,1,Physical Chemistry,Economic Policy Analysis
+44,69,95,96,89,78,48,60,1,Translation,Archivist
+66,87,66,41,67,88,98,55,1,Energy Economics,Computational Biology
+45,73,57,58,50,62,74,84,1,Tourism and Hospitality,Chemistry and Scientific Revolution
+45,77,52,70,78,43,83,67,1,Economic Policy,Experimental Physics
+97,51,59,48,86,82,59,85,1,Operation Resarch,Ecology
+50,100,60,100,42,64,77,72,1,Physics Education,Business and Economic Journalism
+77,71,53,82,48,55,55,77,1,Analytical Chemistry,Transportation and Logistics
+95,40,68,55,70,78,77,50,1,Mathematics,Cultural Heritage Preservation
+55,65,58,80,60,79,70,56,1,Historical Analysis of Technological Advances,Economic Policy Analysis
+68,80,56,40,72,80,82,41,1,Economic Policy,Global Financial Markets
+45,40,75,65,57,81,93,56,1,Macroeconomics,Historical Preservation and Cultural Heritage
+59,53,75,88,83,72,41,69,1,Publishing,Plantery Science
+51,49,53,49,96,48,69,60,0,"F, a, i, l","F, a, i, l"
+58,80,57,94,86,70,46,65,1,Writing and Editing,Journalism
+89,43,90,100,84,77,73,73,1,Organic Chemistry,Geographic Information Systems
+46,70,76,74,95,63,96,88,1,Tourism and Hospitality,Environmental Economics
+46,94,44,81,52,81,72,61,1,Historical Analysis of Technological Advances,Energy Economics
+64,45,71,87,44,51,90,77,1,Cost-benefit Analysis in Chemical Projects,Financial Services
+82,83,100,85,57,98,93,84,1,Museum Curator,Economic Policy Analysis
+77,97,98,77,53,75,62,46,1,Physics Education,Economics of Biomedical Research and Development
+53,92,78,66,59,53,84,62,1,Energy Economics,Pharmacology
+83,96,75,92,91,47,89,65,1,Journalism,Education
+82,43,72,59,42,42,86,96,1,Geographic Information Systems,Financial Services
+63,45,88,96,94,46,65,97,1,Inorganic Chemistry,Environmental Jouralism
+69,99,64,96,84,45,49,41,1,Materials Science,Biostatistics
+90,89,97,89,55,65,75,93,1,Spatial Dynamics of Chemical Reactions,Biotechnology and Economic Development
+95,58,76,61,40,65,71,91,1,Data Analysis,Quantum Chemistry
+94,77,80,75,94,91,57,60,1,Mathematics,Mathematical Biology
+68,92,100,79,95,95,56,46,1,Medical History,Public Relations
+72,50,80,46,50,64,58,100,1,Transportation and Logistics,Geographic Information Systems
+58,78,67,65,55,61,86,90,1,Transportation and Logistics,Cost-benefit Analysis in Chemical Projects
+63,59,49,62,64,87,97,97,1,Archivist,Cultural Heritage Management and Preservation
+80,78,49,54,54,40,59,77,1,Emergency management and Disaster,Technical Writing for Chemistry
+70,66,52,79,81,42,53,50,1,Writing and Editing,Energy Economics
+43,41,74,62,43,96,44,99,1,Museum Curator,Quantum Chemistry
+82,48,76,57,64,65,88,46,1,Economic Policy,Evolution of Chemical Education
+53,100,58,86,83,43,95,83,1,econophysics,Content Creation
+89,44,99,87,80,43,93,96,1,Financial Services,Math Journalism
+45,49,55,44,73,75,84,41,0,"F, a, i, l","F, a, i, l"
+57,97,74,96,43,57,48,87,1,Geography of Chemical Waste Management,Biomedical Engineering
+88,76,45,91,74,80,61,73,1,Mathematics,Economics of Chemical Manufacturing
+43,100,66,73,40,60,80,41,1,Experimental Physics,Biotechnology and Economic Development
+99,56,51,65,40,44,66,94,1,Surveying and Geomatics,Plantery Science
+93,78,42,97,68,80,49,84,1,Analytical Chemistry,Chemical Engineering
+55,89,80,82,56,46,45,99,1,Atmospheric Chemistry,Travel Writing and Guidebook Publishing
+63,92,83,75,66,60,43,88,1,Physics Education,Digital Marketing
+64,91,61,87,87,97,89,49,1,Education,Chemical Education
+100,46,98,51,48,48,43,85,1,Transportation and Logistics,Data Reporting
+95,61,90,40,72,69,79,96,1,Mathematics,Archaeology
+100,70,42,48,91,63,44,57,1,Communications,Chemical Engineering
+95,76,76,60,86,84,48,80,1,Economic History Research,Bioinformatics
+58,51,50,51,94,81,97,57,1,Journalism,Chemical Engineering
+58,80,92,76,48,68,47,67,1,Ecology,Philosophy of Physics
+86,70,90,99,50,43,56,61,1,Signal Processing Engineers,Epidemiology
+70,94,58,96,99,79,77,48,1,Physics Education,Chemistry Education and Curriculum Development
+42,84,64,99,50,73,84,92,1,Urban Planing and Regional Development,Spatial Dynamics of Chemical Reactions
+99,82,94,91,68,53,53,98,1,Surveying and Geomatics,Spatial Dynamics of Chemical Reactions
+77,93,91,92,49,88,58,91,1,Geospatial Techoology,Spatial Dynamics of Chemical Reactions
+79,68,74,96,71,42,48,66,1,Inorganic Chemistry,Cultural Heritage Preservation
+93,62,72,62,60,89,44,95,1,Archaeology,Environmental Chemistry
+73,98,47,42,51,96,96,70,1,econophysics,Archivist
+57,85,63,44,60,56,96,48,1,econophysics,Mathematical Physics
+56,85,87,70,79,71,60,56,1,Anatomy,Philosophy of Physics
+71,76,42,56,82,67,68,74,1,Copywriting,Materials Science
+63,46,92,75,47,62,81,87,1,Biotechnology and Economic Development,Economics
+75,52,92,81,56,85,53,98,1,Landscape Ecology and Biotic Interactions,Computer Science
+50,76,82,74,73,90,67,86,1,Biotechnology,Chemical Engineering
+91,88,88,74,55,78,60,76,1,Mathematical Biology,Astrophysics
+48,69,51,52,87,69,44,84,1,Cultural Heritage Preservation,Historical Analysis of Technological Advances
+51,82,89,47,41,96,67,43,1,Government and Public Services,Biophysics
+92,81,61,50,83,62,69,76,1,Physics Education,Science Communication and Writing
+43,95,79,87,49,40,88,54,1,Environmental Chemistry,BioMechanics
+91,64,74,75,79,50,40,86,1,Signal Processing Engineers,Academic Research
+54,49,79,54,45,74,94,55,1,Microeconomics,Archaeology
+89,77,91,67,70,76,42,56,1,Biostatistics,Inorganic Chemistry
+44,42,60,58,84,64,81,75,1,Communications,Biotechnology
+53,63,86,74,88,85,41,53,1,Publishing,Computer Science
+89,51,90,71,74,86,50,91,1,Medicine,Archaeology
+72,95,65,45,91,60,54,64,1,Theortical Physics,Econometrics
+75,66,89,70,77,52,50,64,1,Anatomy,Analytical Chemistry
+94,89,41,99,60,92,47,68,1,Experimental Physics,Climate Science
+45,59,80,98,51,61,81,90,1,Geography of Chemical Waste Management,Tourism and Hospitality
+44,95,66,43,86,87,84,48,1,Experimental Physics,Landscape Ecology and Biotic Interactions
+47,56,88,93,76,89,57,42,1,Analytical Chemistry,Sustainable Economics in Biology Conservation
+91,100,93,94,76,70,84,67,1,Atmospheric Chemistry,Math Journalism
+91,46,58,53,45,89,46,71,1,Journalism and Media,Chemical Market Forecasting and Analysis
+71,78,91,63,46,65,56,99,1,Emergency management and Disaster,Physical Chemistry
+82,90,79,75,44,77,80,63,1,Operation Resarch,Quantum Mechanics
+78,64,59,75,62,46,40,94,1,Emergency management and Disaster,Transportation and Logistics
+90,82,64,62,83,43,52,95,1,Quantum Mechanics,Math Journalism
+95,87,94,59,100,60,43,51,1,Education,Bioinformatics
+91,76,57,93,95,86,83,100,1,Chemistry and Scientific Revolution,Data Reporting
+52,89,69,56,64,93,89,64,1,Science Journalism,Academic Research
+76,57,53,41,44,59,65,69,0,"F, a, i, l","F, a, i, l"
+50,76,49,59,41,90,69,82,1,Archaeology,Mathematics
+47,98,42,61,68,81,92,96,1,Economic Policy,Communications
+67,70,57,55,79,74,42,76,1,Geospatial Techoology,Pharmacology
+67,61,42,87,79,100,87,61,1,Museum Curator,Historical Research and Writing
+76,55,86,71,87,79,93,74,1,Communications,Academic Research
+84,67,77,76,90,91,69,44,1,Technical Writing,Epidemiology
+46,65,68,85,85,56,73,53,1,Technical Writing,Chemistry Journalism
+86,96,99,71,66,52,49,88,1,Astrophysics,Transportation and Logistics
+86,45,67,72,47,96,41,98,1,Cartography,Mathematics
+44,68,91,60,72,79,100,87,1,Urban Planing and Regional Development,Cultural Heritage Preservation
+64,93,40,49,45,98,47,91,1,Historical Geography,Quantitative Historical Analysis
+42,85,91,46,88,92,99,61,1,Philosophy of Physics,Economic Policy Analysis
+59,83,62,67,55,44,79,85,1,Emergency management and Disaster,Cultural Heritage Preservation
+42,60,95,43,65,44,58,43,0,"F, a, i, l","F, a, i, l"
+58,81,92,62,66,52,78,98,1,Geospatial Techoology,Cartography
+60,87,60,68,53,58,45,79,1,Physics Education,Quantum Chemistry
+55,98,54,82,94,87,74,68,1,Physics Education,Financial Sector Regulatoins
+93,49,95,54,80,82,52,73,1,Quantitative Historical Analysis,Biochemistry
+92,51,99,56,49,62,80,47,1,Data Scientist,Education
+95,85,69,65,100,42,75,48,1,Technical Writing,Economics
+47,76,46,52,90,57,58,46,0,"F, a, i, l","F, a, i, l"
+71,66,46,45,73,72,71,62,1,GeoPhysics,International Economics
+58,42,90,61,94,41,73,89,1,Environmental Jouralism,Risk Manager
+70,71,91,96,81,46,67,41,1,Journalism,Mathematical Physics
+87,86,76,79,46,71,53,46,1,Physics Education,Evolution of Chemical Education
+53,52,77,68,90,52,44,92,1,Environmental Jouralism,Quantum Mechanics
+43,88,65,59,94,88,72,41,1,Historical Research and Writing,English Language Skills for Economic Forecasting
+59,85,53,76,46,63,92,42,1,econophysics,Econometrics
+79,43,69,71,42,81,99,88,1,Historical Preservation and Cultural Heritage,Tourism and Hospitality
+76,46,89,57,57,52,41,45,0,"F, a, i, l","F, a, i, l"
+62,42,71,52,83,92,69,48,1,Archivist,Museum Curation and Interpretation
+54,97,71,78,72,96,51,69,1,Government and Public Services,Editing
+50,50,49,83,80,100,93,79,1,Economic Policies in the Chemical Sector,Spatial Dynamics of Chemical Reactions
+94,60,65,72,47,79,65,75,1,Signal Processing Engineers,Medicinal Chemistry
+47,69,64,52,98,43,92,88,1,Global Financial Markets,Journalism
+77,79,46,67,41,92,89,55,1,International Economics,Emergency management and Disaster
+66,84,51,78,40,84,57,59,1,Philosophy of Physics,Physiology
+76,64,91,66,60,91,97,41,1,Economic Policy Analysis,BioMechanics
+92,90,80,94,71,58,65,53,1,Analytical Chemistry,Math Journalism
+46,55,62,48,97,87,47,86,1,Historical Journalism,Energy Economics
+88,67,56,95,77,44,74,89,1,Analytical Chemistry,Education
+69,48,88,78,73,78,46,59,1,Biotechnology,Molecular Biology
+82,67,45,47,42,99,63,87,1,Surveying and Geomatics,Data Analysis
+57,71,47,97,43,77,73,97,1,Geography of Chemical Waste Management,Quantitative Analyst
+74,42,90,62,92,74,57,77,1,Content Creation,Environmental Jouralism
+44,82,86,90,98,60,81,88,1,Spatial Dynamics of Chemical Reactions,econophysics
+47,79,95,56,66,41,97,77,1,Biotechnology,Microeconomics
+82,100,94,44,40,66,71,84,1,BioMechanics,Landscape Ecology and Biotic Interactions
+94,43,64,46,74,73,52,55,1,Mathematics,Business and Economic Journalism
+81,53,55,77,59,69,78,59,1,Computer Science,Econometrics
+82,69,98,97,42,89,95,48,1,Chemistry and Scientific Revolution,Economics of Chemical Manufacturing
+65,82,76,77,50,74,43,69,1,Science Journalism,Plantery Science
+51,59,99,41,53,53,73,96,1,Emergency management and Disaster,Sustainable Economics in Biology Conservation
+69,92,66,77,48,45,98,50,1,Physics Education,Organic Chemistry
+52,64,89,76,54,74,85,82,1,Tourism and Hospitality,Transportation and Logistics
+92,69,90,91,98,41,60,64,1,Technical Writing,Geography of Chemical Waste Management
+46,52,98,67,94,74,51,99,1,Emergency management and Disaster,Geospatial Techoology
+58,41,57,98,59,59,53,78,1,Organic Chemistry,Chemical Education
+49,74,53,65,99,80,83,92,1,Global Financial Markets,econophysics
+85,85,60,93,98,78,89,65,1,Math Journalism,Museum Curator
+51,98,87,71,72,86,41,71,1,Environmental History,Theortical Physics
+100,98,83,89,55,80,90,47,1,Science Journalism,Signal Processing Engineers
+77,40,83,82,100,51,55,52,1,Lab Assistant,Technical Writing
+49,99,73,64,42,74,48,100,1,Geospatial Techoology,econophysics
+46,60,89,98,75,73,84,51,1,Econometrics,Public Relations
+87,76,86,64,45,75,80,88,1,Microbiology,Data Analysis
+61,58,99,67,87,58,71,65,1,Medicine,Economics
+94,99,62,71,48,40,93,64,1,Economics,Inorganic Chemistry
+58,57,75,82,42,78,65,49,1,Organic Chemistry,Chemical Supply Chain Management
+92,98,93,67,48,98,40,46,1,Medical Physics,Science Writing
+56,71,96,72,43,44,48,65,1,Biotechnology,Statistical Demography
+44,78,69,100,81,83,40,41,1,Lab Assistant,Physical Chemistry
+97,86,87,76,50,54,73,89,1,Biotechnology,Computational Biology
+89,89,60,50,85,97,71,53,1,Technical Writing,Medical Physics
+78,80,88,72,57,49,66,67,1,Medicine,Spatial Dynamics of Chemical Reactions
+87,45,76,71,91,89,48,81,1,Quantitative Historical Analysis,Historical Journalism
+47,73,52,92,40,60,58,61,1,Education,Chemical Supply Chain Management
+67,59,87,86,81,49,74,64,1,Technical Writing for Chemistry,Geography of Chemical Waste Management
+81,54,81,65,52,68,86,52,1,Macroeconomics,Data Scientist
+54,53,96,92,54,95,48,95,1,History of Chemical Discoveries,Geography of Chemical Waste Management
+89,46,72,70,95,84,42,96,1,Communications,Epidemiology
+95,51,80,96,74,67,61,63,1,Analytical Chemistry,Cost-benefit Analysis in Chemical Projects
+63,92,51,72,54,79,68,73,1,Physics Education,Historical Analysis of Technological Advances
+80,82,58,96,59,89,67,86,1,Geochemistry,Environmental Economics
+44,84,45,77,75,81,86,50,1,Historical Analysis of Technological Advances,Historical Preservation and Cultural Heritage
+44,94,83,54,88,67,62,91,1,Science Communication,Geospatial Techoology
+48,68,85,62,99,82,64,84,1,Tourism and Hospitality,Plantery Science
+54,75,61,68,56,89,93,42,1,Historical Preservation and Cultural Heritage,Mathematical Physics
