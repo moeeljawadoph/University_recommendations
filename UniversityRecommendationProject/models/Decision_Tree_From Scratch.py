@@ -5,8 +5,7 @@ Created on Wed Oct  4 14:20:09 2023
 @author: eljawadmo
 """
 
-import numpy as np
-import pandas as pd
+from main import df
 import matlplotlib as plt
 import seaborn as sns
 
@@ -15,7 +14,7 @@ from pprint import pprint
 
 
 #define the  
-def train_test_split(df, test_size):
+def train_test_split(df, test_size=0.2):
     # to give the user an option of providing a percentage test_size instead of a test)size Number 
     if isinstance(test_size,float):
         test_size=round(test_size*len(df))
@@ -31,4 +30,4 @@ def train_test_split(df, test_size):
 
 # set the seed to make your results fixed
 random.seed(0)
-train_df, test_df = 
+train_df, test_df = train_test_split(df) 
